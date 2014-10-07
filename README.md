@@ -1,4 +1,4 @@
-pilvivayla-logo
+EduCloud Design
 ===============
 
-Pilviväylä logos and other graphics related materials
+EduCloud logos and other graphics related materials.
